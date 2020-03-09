@@ -12,6 +12,9 @@
         <module>sentinel-api</module>
         <module>sentinel-producer</module>
         <module>sentinel-consumer</module>
+        <module>sentinel-dao</module>
+        <module>seata-order</module>
+        <module>seata-storage</module>
     </modules>
 
 
